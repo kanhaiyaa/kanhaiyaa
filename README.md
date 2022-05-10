@@ -1,1 +1,1 @@
-## Hi there, I'm Kanhaiya Agnihotri 👋
+## Hi there 👋
