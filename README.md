@@ -1,7 +1,7 @@
 Hi 👋 My name is Kanhaiya Agnihotri
 ===============================
 
-Web Developer
+Software Engineer
 -------------
 
 * 🌍  I'm based in Noida, India
